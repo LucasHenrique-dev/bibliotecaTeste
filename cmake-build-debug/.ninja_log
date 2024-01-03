@@ -1,0 +1,10 @@
+# ninja log v5
+0	1596	7259912269602394	CMakeFiles/bibliotecaTeste.dir/minhaBiblioteca.cpp.obj	5e959e6eb7965c33
+1597	1787	7259912271447270	libbibliotecaTeste.dll	90f1b469485b17c
+1597	1787	7259912271447270	libbibliotecaTeste.dll.a	90f1b469485b17c
+1	1573	7259344836427486	CMakeFiles/bibliotecaTeste.dir/main.cpp.obj	3572ca551a70cb4c
+1	16109	7259471505893565	CMakeFiles/bibliotecaTeste.dir/bibliotecaCPython.cpp.obj	fcbc78ab3c0cd3e8
+1	2031	7259919430073544	CMakeFiles/bibliotecaTeste.dir/minhaBiblioteca.cpp.obj	5e959e6eb7965c33
+8	3351	7259919443285483	CMakeFiles/bibliotecaTeste.dir/bibliotecaAuxiliar.cpp.obj	8a500ac9ce3342
+3352	3548	7259919445194192	libbibliotecaTeste.dll	ad5a3c0d7f347ec8
+3352	3548	7259919445194192	libbibliotecaTeste.dll.a	ad5a3c0d7f347ec8
