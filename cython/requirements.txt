@@ -1,0 +1,3 @@
+cython
+easycython
+setuptools
